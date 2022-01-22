@@ -4,6 +4,8 @@
 - My Profile at Frontend-Mentor: https://www.frontendmentor.io/profile/fabiannull
 - 📫 How to reach me: fabian.dev@outlook.de
 
+- live demo vue todo-app https://vue-todo-app01.netlify.app/
+
 - live demo for my projects from frontend-mentor:
 - https://frontendmentor-faq-animation.netlify.app/
 - https://frontend-mentor-profile-card-component-main.netlify.app/
