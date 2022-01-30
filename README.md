@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @fabiannull
 - 👀 I’m interested in Webdeveloping / Frontend
 - 🌱 I’m currently learning all the stuff i need to get a Job as a (Junior)-Developer
-- My Profile at Frontend-Mentor: https://www.frontendmentor.io/profile/fabiannull
 - 📫 How to reach me: fabian.dev@outlook.de
 
 - live demo vue todo-app https://vue-todo-app02.netlify.app
 - live demo vue random user https://vue-random-user01.netlify.app/
 
+- My Profile at Frontend-Mentor: https://www.frontendmentor.io/profile/fabiannull
 - live demo for my projects from frontend-mentor:
 - https://frontendmentor-faq-animation.netlify.app/
 - https://frontend-mentor-profile-card-component-main.netlify.app/
