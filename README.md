@@ -4,7 +4,7 @@
 - 📫 How to reach me: fabian.dev@outlook.de
 
 - live demo vue todo-app https://vue-todo-app02.netlify.app
-- live demo vue random user (not finished) https://vue-random-user01.netlify.app/
+- live demo vue term calendar https://vue-terminkalender.netlify.app/
 
 - My Profile at Frontend-Mentor: https://www.frontendmentor.io/profile/fabiannull
 - live demo for my projects from frontend-mentor:
