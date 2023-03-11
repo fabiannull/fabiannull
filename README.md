@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fabiannull
-- 👀 I’m interested in Webdeveloping / Frontend
-- 🌱 I’m currently learning all the stuff i need to get a Job as a (Junior)-Developer
+- 💓 I really love Web- , Fronend-, Appdevelopment.
 - 📫 How to reach me: fabian.dev@outlook.de
 
 - live demo vue todo-app https://vue-todo-app02.netlify.app
